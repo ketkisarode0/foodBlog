@@ -23,6 +23,6 @@
     "webpack-dev-server": "^3.8.0"
   },
   "dependencies": {
-    "angular": "^1.5.5"
+    "angular": "^1.7.9"
   }
 }
